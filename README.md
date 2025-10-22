@@ -1,5 +1,7 @@
 # Game of Life
 
+![Preview](preview.png)
+
 The Unity project implements Conway’s Game of Life with a PvP twist, pattern library, drag-to-paint editing, zoom, and animated cells.
 
 ## Installation
